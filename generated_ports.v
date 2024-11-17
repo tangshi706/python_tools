@@ -31,4 +31,6 @@ assign pu_trim_2 = 1'b0;
 always @(*)
 a=trim_din;
 
+
+
 endmodule
